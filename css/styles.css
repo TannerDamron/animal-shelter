@@ -1,0 +1,49 @@
+body {
+  font-family: sans-serif;
+}
+
+.title {
+  text-align: center;
+}
+
+.cat1 {
+  float: left;
+  padding: 60px;
+}
+
+.cat1 h3{
+  text-align: center;
+}
+.cat1 li {
+  color: red;
+}
+
+.cat2 {
+  float: left;
+  padding: 60px;
+}
+.cat2 li {
+  color: green;
+}
+
+.cat2 h3{
+  text-align: center;
+}
+
+
+.cat3 {
+  float: left;
+  padding: 60px;
+}
+
+.cat3 h3{
+  text-align: center;
+}
+
+.cat3 li {
+  color: blue;
+}
+
+.cat3 li a {
+  font-size: 25px;
+}
